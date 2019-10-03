@@ -1,1 +1,1 @@
-# fatih
+# getir job application
