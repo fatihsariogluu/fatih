@@ -16,7 +16,7 @@ pipeline {
         stage('Run Docker') {
 
                 steps {
-                      docker run docker-hello-world:latest
+                   sh 'docker run docker-hello-world:latest'
                     } 
             }     
      }
